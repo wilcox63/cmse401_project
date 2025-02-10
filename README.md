@@ -18,4 +18,4 @@ More to come...
 
 ---
 ## Installation
-In order to access the Project Proposal, clone this repository to your local machine using the command "git clone ...". Then extract the zip file, making sure that the image file is saved in the same directory as the notebook file. 
+In order to access the Project Proposal, clone this repository to your local machine using the command "git clone https://github.com/wilcox63/cmse401_project.git". Then extract the zip file, making sure that the image file is saved in the same directory as the notebook file. 
